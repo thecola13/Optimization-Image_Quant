@@ -1,4 +1,4 @@
-# Optimization-Image_Quant
+# Image Quantizer
 Assignment for "20874 - Algorithms for Optimisation and Inference" course at Bocconi University (MSc in Artificial Intelligence)
 
 Run these commands to use the various files
